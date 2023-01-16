@@ -79,7 +79,7 @@ servings: Dict[Optional[int], str] = serving_recipes(recipes_100)
 #Создание .json файла с ответами
 recipes_100_answeres = {
     'Recipes that contain chicken:': new_recipes,
-    'Recipes that contain chicken: ': list(dishes),
+    'The three longest of time recipes to make: ': list(dishes),
     'Names of dishes that can be prepared for each number of people:': servings
 }
 with open('answeres.json', 'w') as f:
