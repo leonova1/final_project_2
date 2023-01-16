@@ -1,0 +1,63 @@
+{
+ "Recipes that contain chicken:": [
+  "Mulligatawny Soup"
+ ],
+ "Recipes that contain chicken: ": [
+  "Amazing Apple Butter",
+  "Homemade Apple Cider",
+  "Apple Pie Filling"
+ ],
+ "Names of dishes that can be prepared for each number of people:": {
+  "4": [
+   "Easy Apple Crisp with Oat Topping",
+   "Apple Hand Pies",
+   "Southern Fried Apples",
+   "Sarah's Homemade Applesauce"
+  ],
+  "6": [
+   "Old-Fashioned Apple Dumplings",
+   "Caramel Apples",
+   "Waldorf Salad",
+   "Easy Apple Cinnamon Muffins",
+   "Delicious Cinnamon Baked Apples",
+   "Apple Crisp - Perfect and Easy",
+   "Easy Apple Crisp with Pie Filling",
+   "Mulligatawny Soup"
+  ],
+  "8": [
+   "Sauteed Apples",
+   "Easy Apple Cider",
+   "Apple Crumb Pie",
+   "The Best Caramel Apples",
+   "Apple-Cranberry Crostada",
+   "Apple-Cranberry Crisp",
+   "Easy Apple Pie",
+   "Apple Turnovers",
+   "Apple Pie by Grandma Ople"
+  ],
+  "10": [
+   "Debbie's Amazing Apple Bread",
+   "Awesome Sausage, Apple and Cranberry Stuffing"
+  ],
+  "12": [
+   "Apple Crisp",
+   "Apple Strudel Muffins"
+  ],
+  "16": [
+   "Homemade Apple Cider"
+  ],
+  "24": [
+   "Mom's Apple Fritters",
+   "German Apple Cake"
+  ],
+  "40": [
+   "Apple Pie Filling"
+  ],
+  "48": [
+   "Amazing Apple Butter"
+  ],
+  "56": [
+   "Canned Apple Pie Filling"
+  ]
+ }
+}
